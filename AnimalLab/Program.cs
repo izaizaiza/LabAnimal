@@ -55,8 +55,28 @@ namespace AnimalLab
 
 
             // create a list called animals and populate the list
-
+            // make this more efficient
+            List<Animal> animals = new List<Animal>();
+            Dog dog3 = new Dog("Berry", "white", 3);
+            Dog dog4 = new Dog("Pumpkin", "grey", 3);
+            Dog dog5 = new Dog("Cookie", "brown", 3);
+            Cat cat3 = new Cat("Strawberry", "grey", 4);
+            Cat cat4 = new Cat("Lemons", "grey", 4);
+            Cat cat5 = new Cat("Boots", "grey", 3);
+            animals.Add(cat3);
+            animals.Add(cat4);
+            animals.Add(dog3);
+            animals.Add(dog4);
+            animals.Add(dog5);
+            animals.Add(cat5);
+            animals.Add(dog5);
             //print all the names of the animals
+            Console.WriteLine("The names of cats and dogs in the list is: \n");
+            foreach (Animal animal in animals)
+            {
+                Console.WriteLine(animal.Name);
+                
+            }
 
 
         }
