@@ -44,6 +44,20 @@ namespace AnimalLab
                               "Colour:{1}\n" +
                               "Age:{2}", newCat.Name, newCat.Colour, newCat.Age));
 
+            //testing the interface
+            ImplementedCat cat2 = new ImplementedCat("Kat", "white", 4);
+            cat2.Eat();
+            Console.WriteLine(cat2.Cry());
+
+            ImplementedDog dog2 = new ImplementedDog("Dogogo", "white", 5);
+            dog2.Eat();
+            Console.WriteLine(dog2.Cry());
+
+
+            // create a list called animals and populate the list
+
+            //print all the names of the animals
+
 
         }
     }

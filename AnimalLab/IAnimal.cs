@@ -9,15 +9,19 @@ namespace AnimalLab
 {
     public interface IAnimal
     {
+        // property signatures:
         string Name { get; set; }   
         string Colour { get; set; }
         int Age { get; set; }
 
+
         //eat method -  void
         //note: to be implemented on the implementation class
+        void Eat();
 
         //cry method - string
         //note: to be implemented on the implementation class
+        string Cry();
 
 
 
