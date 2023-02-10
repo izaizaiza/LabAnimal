@@ -1,0 +1,8 @@
+C:\Users\izalu\OneDrive - Southern Alberta Institute of Technology\Winter2023\CPRG211-OOP2\Labs\AnimalLab\AnimalLab\bin\Debug\AnimalLab.exe.config
+C:\Users\izalu\OneDrive - Southern Alberta Institute of Technology\Winter2023\CPRG211-OOP2\Labs\AnimalLab\AnimalLab\bin\Debug\AnimalLab.exe
+C:\Users\izalu\OneDrive - Southern Alberta Institute of Technology\Winter2023\CPRG211-OOP2\Labs\AnimalLab\AnimalLab\bin\Debug\AnimalLab.pdb
+C:\Users\izalu\OneDrive - Southern Alberta Institute of Technology\Winter2023\CPRG211-OOP2\Labs\AnimalLab\AnimalLab\obj\Debug\AnimalLab.csproj.AssemblyReference.cache
+C:\Users\izalu\OneDrive - Southern Alberta Institute of Technology\Winter2023\CPRG211-OOP2\Labs\AnimalLab\AnimalLab\obj\Debug\AnimalLab.csproj.SuggestedBindingRedirects.cache
+C:\Users\izalu\OneDrive - Southern Alberta Institute of Technology\Winter2023\CPRG211-OOP2\Labs\AnimalLab\AnimalLab\obj\Debug\AnimalLab.csproj.CoreCompileInputs.cache
+C:\Users\izalu\OneDrive - Southern Alberta Institute of Technology\Winter2023\CPRG211-OOP2\Labs\AnimalLab\AnimalLab\obj\Debug\AnimalLab.exe
+C:\Users\izalu\OneDrive - Southern Alberta Institute of Technology\Winter2023\CPRG211-OOP2\Labs\AnimalLab\AnimalLab\obj\Debug\AnimalLab.pdb
